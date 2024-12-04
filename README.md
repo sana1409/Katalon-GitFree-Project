@@ -1,3 +1,3 @@
 # Katalon-GitFree-Project
 This is my first project repository.
-Author - Sana Waheed.
+Author - Sana Waheed. BSCS.
